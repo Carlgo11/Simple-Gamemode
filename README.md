@@ -6,4 +6,4 @@ Simple Gamemode Plugin for Craftbukkit. http://dev.bukkit.org/bukkit-plugins/sim
 Development
 ===============
 
-Please use Netbeans for developing this plugin.
+Please use Netbeans when developing this plugin!
