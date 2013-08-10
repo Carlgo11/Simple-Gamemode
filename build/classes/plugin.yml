@@ -1,0 +1,8 @@
+name: SimpleGameMode
+main: me.carl.ChangeGameMode.ChangeGameMode
+version: 1.0
+commands:
+  Gm:
+    default: true
+    usage: a Usage message!
+    description: Changes player's gamemode.
